@@ -1,7 +1,10 @@
 // Copyright 2022 bstt, Inc. All Rights Reserved.
 
+#pragma once
+
 #include "Framework/Notifications/NotificationManager.h"
 #include "Widgets/Notifications/SNotificationList.h"
+#include "UnrealEdMisc.h"
 
 // code taken from Developer/SettingsEditor/Private/SettingsEditorModule.cpp
 
